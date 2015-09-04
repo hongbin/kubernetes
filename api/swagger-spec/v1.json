@@ -50,7 +50,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -93,7 +93,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -168,7 +168,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -219,7 +219,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -286,7 +286,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -361,7 +361,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -406,7 +406,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -481,7 +481,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -532,7 +532,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -585,7 +585,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -693,7 +693,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -776,7 +776,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -843,7 +843,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -880,7 +880,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -947,7 +947,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1022,7 +1022,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1067,7 +1067,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1142,7 +1142,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1193,7 +1193,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1246,7 +1246,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1346,7 +1346,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1429,7 +1429,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1496,7 +1496,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1533,7 +1533,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1600,7 +1600,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1675,7 +1675,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1720,7 +1720,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1795,7 +1795,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -1846,7 +1846,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1899,7 +1899,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -1999,7 +1999,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2082,7 +2082,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2149,7 +2149,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -2186,7 +2186,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2253,7 +2253,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2320,7 +2320,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -2357,7 +2357,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2424,7 +2424,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2467,7 +2467,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -2512,7 +2512,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -2604,7 +2604,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2679,7 +2679,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2730,7 +2730,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2781,7 +2781,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2848,7 +2848,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -2885,7 +2885,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2952,7 +2952,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -2995,7 +2995,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3040,7 +3040,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3132,7 +3132,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3207,193 +3207,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
-      ]
-     }
-    ]
-   },
-   {
-    "path": "/api/v1/proxy/nodes/{name}/{path:*}",
-    "description": "API at /api/v1 version v1",
-    "operations": [
-     {
-      "type": "string",
-      "method": "GET",
-      "summary": "proxy GET requests to Node",
-      "nickname": "proxyGETNamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "PUT",
-      "summary": "proxy PUT requests to Node",
-      "nickname": "proxyPUTNamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "POST",
-      "summary": "proxy POST requests to Node",
-      "nickname": "proxyPOSTNamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "DELETE",
-      "summary": "proxy DELETE requests to Node",
-      "nickname": "proxyDELETENamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "HEAD",
-      "summary": "proxy HEAD requests to Node",
-      "nickname": "proxyHEADNamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "OPTIONS",
-      "summary": "proxy OPTIONS requests to Node",
-      "nickname": "proxyOPTIONSNamespacedNode",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Node",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3418,10 +3232,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3440,10 +3254,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3462,10 +3276,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3484,10 +3298,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3506,10 +3320,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3528,10 +3342,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3582,7 +3396,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3657,7 +3471,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3702,7 +3516,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3777,7 +3591,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -3828,7 +3642,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3881,7 +3695,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -3989,7 +3803,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4072,7 +3886,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4139,7 +3953,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -4176,7 +3990,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4243,7 +4057,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4302,7 +4116,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4369,7 +4183,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -4406,7 +4220,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4473,7 +4287,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4516,7 +4330,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -4561,7 +4375,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -4653,7 +4467,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4728,7 +4542,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4779,7 +4593,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4854,7 +4668,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -4899,7 +4713,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -4974,7 +4788,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5025,7 +4839,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5078,7 +4892,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5186,7 +5000,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5269,241 +5083,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
-      ]
-     }
-    ]
-   },
-   {
-    "path": "/api/v1/proxy/namespaces/{namespace}/pods/{name}/{path:*}",
-    "description": "API at /api/v1 version v1",
-    "operations": [
-     {
-      "type": "string",
-      "method": "GET",
-      "summary": "proxy GET requests to Pod",
-      "nickname": "proxyGETNamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "PUT",
-      "summary": "proxy PUT requests to Pod",
-      "nickname": "proxyPUTNamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "POST",
-      "summary": "proxy POST requests to Pod",
-      "nickname": "proxyPOSTNamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "DELETE",
-      "summary": "proxy DELETE requests to Pod",
-      "nickname": "proxyDELETENamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "HEAD",
-      "summary": "proxy HEAD requests to Pod",
-      "nickname": "proxyHEADNamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "OPTIONS",
-      "summary": "proxy OPTIONS requests to Pod",
-      "nickname": "proxyOPTIONSNamespacedPod",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5536,10 +5116,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5566,10 +5146,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5596,10 +5176,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5626,10 +5206,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5656,10 +5236,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5686,10 +5266,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5756,7 +5336,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5793,7 +5373,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5860,7 +5440,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5919,7 +5499,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -5952,10 +5532,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -5982,10 +5562,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6036,7 +5616,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6069,10 +5649,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6099,10 +5679,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6135,10 +5715,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6165,10 +5745,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6195,10 +5775,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6225,10 +5805,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6255,10 +5835,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6285,244 +5865,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
-      ]
-     }
-    ]
-   },
-   {
-    "path": "/api/v1/namespaces/{namespace}/pods/{name}/proxy/{path:*}",
-    "description": "API at /api/v1 version v1",
-    "operations": [
-     {
-      "type": "string",
-      "method": "GET",
-      "summary": "connect GET requests to proxy of Pod",
-      "nickname": "connectGetNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "POST",
-      "summary": "connect POST requests to proxy of Pod",
-      "nickname": "connectPostNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "PUT",
-      "summary": "connect PUT requests to proxy of Pod",
-      "nickname": "connectPutNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "DELETE",
-      "summary": "connect DELETE requests to proxy of Pod",
-      "nickname": "connectDeleteNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "HEAD",
-      "summary": "connect HEAD requests to proxy of Pod",
-      "nickname": "connectHeadNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "OPTIONS",
-      "summary": "connect OPTIONS requests to proxy of Pod",
-      "nickname": "connectOptionsNamespacedPodProxy",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Pod",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6581,7 +5927,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6656,7 +6002,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6701,7 +6047,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6776,7 +6122,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -6827,7 +6173,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6880,7 +6226,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -6988,7 +6334,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7071,7 +6417,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7138,7 +6484,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -7175,7 +6521,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7242,7 +6588,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7317,7 +6663,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -7362,7 +6708,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7437,7 +6783,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7488,7 +6834,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -7541,7 +6887,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -7649,7 +6995,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7732,7 +7078,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7799,7 +7145,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -7836,7 +7182,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7903,7 +7249,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -7978,7 +7324,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8023,7 +7369,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8098,7 +7444,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8149,7 +7495,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8202,7 +7548,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8310,7 +7656,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8393,7 +7739,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8460,7 +7806,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8497,7 +7843,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8564,7 +7910,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8623,7 +7969,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8698,7 +8044,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8743,7 +8089,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8818,7 +8164,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -8869,7 +8215,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -8922,7 +8268,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9030,7 +8376,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9113,7 +8459,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9180,7 +8526,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9217,7 +8563,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9284,7 +8630,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9359,7 +8705,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9404,7 +8750,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9479,7 +8825,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9530,7 +8876,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9583,7 +8929,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9691,7 +9037,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9774,7 +9120,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9841,7 +9187,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -9878,7 +9224,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -9945,7 +9291,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10020,7 +9366,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10065,7 +9411,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10140,7 +9486,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10191,7 +9537,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10244,7 +9590,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10344,7 +9690,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10427,241 +9773,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
-      ]
-     }
-    ]
-   },
-   {
-    "path": "/api/v1/proxy/namespaces/{namespace}/services/{name}/{path:*}",
-    "description": "API at /api/v1 version v1",
-    "operations": [
-     {
-      "type": "string",
-      "method": "GET",
-      "summary": "proxy GET requests to Service",
-      "nickname": "proxyGETNamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "PUT",
-      "summary": "proxy PUT requests to Service",
-      "nickname": "proxyPUTNamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "POST",
-      "summary": "proxy POST requests to Service",
-      "nickname": "proxyPOSTNamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "DELETE",
-      "summary": "proxy DELETE requests to Service",
-      "nickname": "proxyDELETENamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "HEAD",
-      "summary": "proxy HEAD requests to Service",
-      "nickname": "proxyHEADNamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
-      ]
-     },
-     {
-      "type": "string",
-      "method": "OPTIONS",
-      "summary": "proxy OPTIONS requests to Service",
-      "nickname": "proxyOPTIONSNamespacedService",
-      "parameters": [
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "namespace",
-        "description": "object name and auth scope, such as for teams and projects",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "name",
-        "description": "name of the Service",
-        "required": true,
-        "allowMultiple": false
-       },
-       {
-        "type": "string",
-        "paramType": "path",
-        "name": "path:*",
-        "description": "path to the resource",
-        "required": true,
-        "allowMultiple": false
-       }
-      ],
-      "produces": [
-       "*/*"
-      ],
-      "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10694,10 +9806,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10724,10 +9836,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10754,10 +9866,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10784,10 +9896,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10814,10 +9926,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10844,10 +9956,10 @@
        }
       ],
       "produces": [
-       "*/*"
+       "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -10914,7 +10026,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      },
      {
@@ -10951,7 +10063,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -11018,7 +10130,7 @@
        "application/json"
       ],
       "consumes": [
-       "*/*"
+       "application/json"
       ]
      }
     ]
@@ -11090,11 +10202,11 @@
       "description": "RFC 3339 date and time at which the object will be deleted; populated by the system when a graceful deletion is requested, read-only; if not set, graceful deletion of the object has not been requested; see http://releases.k8s.io/v1.0.3/docs/api-conventions.md#metadata"
      },
      "labels": {
-      "type": "any",
+      "type": "string",
       "description": "map of string keys and values that can be used to organize and categorize objects; may match selectors of replication controllers and services; see http://releases.k8s.io/v1.0.3/docs/labels.md"
      },
      "annotations": {
-      "type": "any",
+      "type": "string",
       "description": "map of string keys and values that can be used by external tooling to store and retrieve arbitrary metadata about objects; see http://releases.k8s.io/v1.0.3/docs/annotations.md"
      }
     }
@@ -11610,15 +10722,15 @@
       "description": "type of resource that this limit applies to"
      },
      "max": {
-      "type": "any",
+      "type": "string",
       "description": "max usage constraints on this kind by resource name"
      },
      "min": {
-      "type": "any",
+      "type": "string",
       "description": "min usage constraints on this kind by resource name"
      },
      "default": {
-      "type": "any",
+      "type": "string",
       "description": "default values on this kind by resource name if omitted"
      }
     }
@@ -11777,7 +10889,7 @@
     "id": "v1.NodeStatus",
     "properties": {
      "capacity": {
-      "type": "any",
+      "type": "string",
       "description": "compute resource capacity of the node; see http://releases.k8s.io/v1.0.3/docs/compute_resources.md"
      },
      "phase": {
@@ -11978,11 +11090,11 @@
     "id": "v1.ResourceRequirements",
     "properties": {
      "limits": {
-      "type": "any",
+      "type": "string",
       "description": "Maximum amount of compute resources allowed; see http://releases.k8s.io/v1.0.3/docs/design/resources.md#resource-specifications"
      },
      "requests": {
-      "type": "any",
+      "type": "string",
       "description": "Minimum amount of resources requested; requests are honored only for persistent volumes as of now; see http://releases.k8s.io/v1.0.3/docs/design/resources.md#resource-specifications"
      }
     }
@@ -12002,7 +11114,7 @@
       "description": "the actual access modes the volume has; see http://releases.k8s.io/v1.0.3/docs/persistent-volumes.md#access-modes-1"
      },
      "capacity": {
-      "type": "any",
+      "type": "string",
       "description": "the actual resources the volume has"
      }
     }
@@ -12060,7 +11172,7 @@
     "id": "v1.PersistentVolumeSpec",
     "properties": {
      "capacity": {
-      "type": "any",
+      "type": "string",
       "description": "a description of the persistent volume's resources and capacityr; see http://releases.k8s.io/v1.0.3/docs/persistent-volumes.md#capacity"
      },
      "gcePersistentDisk": {
@@ -12410,7 +11522,7 @@
       "description": "DNS policy for containers within the pod; one of 'ClusterFirst' or 'Default'"
      },
      "nodeSelector": {
-      "type": "any",
+      "type": "string",
       "description": "selector which must match a node's labels for the pod to be scheduled on that node; see http://releases.k8s.io/v1.0.3/examples/node-selection/README.md"
      },
      "serviceAccountName": {
@@ -13201,7 +12313,7 @@
       "description": "number of replicas desired; defaults to 1; see http://releases.k8s.io/v1.0.3/docs/replication-controller.md#what-is-a-replication-controller"
      },
      "selector": {
-      "type": "any",
+      "type": "string",
       "description": "label keys and values that must match in order to be controlled by this replication controller, if empty defaulted to labels on Pod template; see http://releases.k8s.io/v1.0.3/docs/labels.md#label-selectors"
      },
      "template": {
@@ -13284,7 +12396,7 @@
     "id": "v1.ResourceQuotaSpec",
     "properties": {
      "hard": {
-      "type": "any",
+      "type": "string",
       "description": "hard is the set of desired hard limits for each named resource; see http://releases.k8s.io/v1.0.3/docs/design/admission_control_resource_quota.md#admissioncontrol-plugin-resourcequota"
      }
     }
@@ -13293,11 +12405,11 @@
     "id": "v1.ResourceQuotaStatus",
     "properties": {
      "hard": {
-      "type": "any",
+      "type": "string",
       "description": "hard is the set of enforced hard limits for each named resource; see http://releases.k8s.io/v1.0.3/docs/design/admission_control_resource_quota.md#admissioncontrol-plugin-resourcequota"
      },
      "used": {
-      "type": "any",
+      "type": "string",
       "description": "used is the current observed total usage of the resource in the namespace"
      }
     }
@@ -13345,7 +12457,7 @@
       "description": "standard object metadata; see http://releases.k8s.io/v1.0.3/docs/api-conventions.md#metadata"
      },
      "data": {
-      "type": "any",
+      "type": "string",
       "description": "data contains the secret data.  Each key must be a valid DNS_SUBDOMAIN or leading dot followed by valid DNS_SUBDOMAIN.  Each value must be a base64 encoded string as described in https://tools.ietf.org/html/rfc4648#section-4"
      },
      "type": {
@@ -13478,7 +12590,7 @@
       "description": "ports exposed by the service; see http://releases.k8s.io/v1.0.3/docs/services.md#virtual-ips-and-service-proxies"
      },
      "selector": {
-      "type": "any",
+      "type": "string",
       "description": "label keys and values that must match in order to receive traffic for this service; if empty, all pods are selected, if not specified, endpoints must be manually specified; see http://releases.k8s.io/v1.0.3/docs/services.md#overview"
      },
      "clusterIP": {
